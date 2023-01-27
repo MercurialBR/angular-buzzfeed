@@ -1,4 +1,6 @@
-# AngularBuzzfeed
+# AngularBuzzfeed | Clone
+
+![screenbud-01cf3a50-524e-428a-8cb0-4737263330ac](https://user-images.githubusercontent.com/63432907/214911539-b2fd719a-aa81-4e33-b4fd-5f8c5523ee82.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
 
