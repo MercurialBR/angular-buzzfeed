@@ -1,0 +1,75 @@
+{
+  "title":"Você seria um heroi ou vilão ?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Se você pudesse escolher um superpoder para se locomover livremente, qual escolheria?",
+      "options":[
+        {"id": 1, "name":"Super velocidade", "alias":"B"},
+        {"id": 2, "name":"Voar", "alias":"B"},
+        {"id": 3, "name":"Explodir coisas", "alias":"A"},
+        {"id": 4, "name":"Teletransportar para entrar em algum lugar", "alias":"A"},
+        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Quem você salvaria primeiro ?",
+      "options":[
+        {"id": 1, "name":"Crianças", "alias":"A"},
+        {"id": 2, "name":"Idosos", "alias":"A"},
+        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "options":[
+        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
+        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
+        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
+        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Você costuma ser uma pessoa mais calma ou estressada?",
+      "options":[
+        {"id": 1, "name":"Sempre tento manter a calma", "alias":"B"},
+        {"id": 2, "name":"Estou sempre estressado com tudo e todos", "alias":"A"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Em uma missão de espionagem, qual seria a melhor habilidade?",
+      "options":[
+        {"id": 1, "name":"Telepatia", "alias":"A"},
+        {"id": 2, "name":"Invisibilidade", "alias":"B"},
+        {"id": 3, "name":"Alteração de aparência", "alias":"A"}
+      ]
+    },
+    {
+      "id":6,
+      "question": "Para você, a vingança é:",
+      "options":[
+        {"id": 1, "name":"Necessária", "alias":"A"},
+        {"id": 2, "name":"Em alguns casos a vingança é Necessária", "alias":"A"},
+        {"id": 3, "name":"Desnecessária, a vingança não resolve nada", "alias":"B"}
+      ]
+    },
+    {
+      "id":7,
+      "question": "Você está em uma missão super cautelosa. Qual poder seria importante de ter?",
+      "options":[
+        {"id": 1, "name":"Super força", "alias":"B"},
+        {"id": 2, "name":"Imortalidade", "alias":"A"},
+        {"id": 3, "name":"Disparar raio laser pelos olhos", "alias":"A"},
+        {"id": 4, "name":"Super velocidade", "alias":"B"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você muito provavelmente seria um super vilão!",
+    "B": "Você muito provavelmente seria um super Herói!"
+  }
+}
