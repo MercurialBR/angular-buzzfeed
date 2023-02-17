@@ -74,3 +74,9 @@
   justify-content: center;
   align-items: center;
 }
+
+@media (min-width: 400px) and (max-width: 767px) {
+  .quizz_logo img {
+    width: 78%;
+  }
+}
